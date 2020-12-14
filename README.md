@@ -7,7 +7,7 @@ O que foi utilizado?
 
 - spring security para fazer a autenticação
 - validações de campos com Java Bean Validation
-- controle de execeções com a anotação ControllerAdvice
+- controle de exceções com a anotação ControllerAdvice
 - mapeamento de objetos com ModelMapper
 
 # Configurar Lombok
