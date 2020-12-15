@@ -7,7 +7,7 @@ O que foi utilizado?
 
 - spring security para fazer a autenticação
 - validações de campos com Java Bean Validation
-- controle de execeções com a anotação ControllerAdvice
+- controle de exceções com a anotação ControllerAdvice
 - mapeamento de objetos com ModelMapper
 
 # Configurar Lombok
@@ -22,4 +22,4 @@ Banco utilizado na api é o Mysql
 
 Rotas de exemplo da utilização da api
 
-https://www.getpostman.com/collections/966e55de0a4b4fbe4a53
+https://www.getpostman.com/collections/ea98ca5d3afcb9d99521
