@@ -38,6 +38,6 @@ public class SecurityConfig extends WebSecurityConfigurerAdapter {
                 .password(passwordEncoder.encode("123456"))
                 .roles("USER");
 
-//        auth.userDetailsService(applicationUserService).passwordEncoder(passwordEncoder);
+        auth.userDetailsService(applicationUserService).passwordEncoder(passwordEncoder);
     }
 }
